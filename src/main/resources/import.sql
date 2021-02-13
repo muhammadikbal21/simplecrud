@@ -1,0 +1,10 @@
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (1, 'Chicken Mushroom', "", 30000, "makanan", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (2, 'Chicken Pepper', "", 28000, "makanan", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (3, 'Beef Steak', "", 35000, "makanan", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (4, 'Beef Black Pepper', "", 37000, "makanan", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (5, 'Sirloin NewZealand', "", 3000, "makanan", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (6, 'Tuna Steak', "", 35000, "makanan", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (7, 'Ice Chocolate Fruits', "", 18000, "minuman", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (8, 'Red Velvet', "", 18000, "minuman", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (9, 'Taro', "", 18000, "minuman", '2001-01-01');
+INSERT INTO food (id, name, description, price, types, created_date) VALUES (10, 'Float Fruity', "", 20000, "minuman", '2001-01-01');
